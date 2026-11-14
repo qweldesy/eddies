@@ -1647,7 +1647,7 @@ html.reveal-on .js-reveal { opacity: 0; transform: translateY(22px); }
   .hero-media img { object-position: 52% 50%; }
   .hero::before {
     background:
-      linear-gradient(180deg, rgba(5, 7, 11, .46) 0%, rgba(5, 7, 11, .58) 24%, rgba(5, 7, 11, .94) 52%, #05070B 72%),
+      linear-gradient(180deg, rgba(5, 7, 11, .38) 0%, rgba(5, 7, 11, .52) 17%, rgba(5, 7, 11, .9) 29%, #05070B 38%),
       linear-gradient(90deg, rgba(5, 7, 11, .7) 0%, rgba(5, 7, 11, .2) 100%);
   }
   .hero-inner { gap: 32px; }
